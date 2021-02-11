@@ -1,0 +1,32 @@
+body{
+background-color: #efe3e4;
+color:#282f24;
+}
+
+li {
+    list-style: none;
+    float: left;
+    /* 上下のpaddingを33px、左右のpaddingを20pxにしてください */
+    padding: 33px 20px;
+    
+  }
+  
+  .header {
+    background-color:#c04c5a;
+    color: #fff;
+    height: 90px;
+  }
+  
+  .header-logo {
+    float: left;
+    font-size: 36px;
+    /* 上下のpaddingを20px、左右のpaddingを40pxにしてください */
+    padding: 20px 40px;
+  
+  }
+
+  .back-image{
+    background-image:url("https://i.ibb.co/7QSd2fL/IMG-6189.jpg");
+    background-size:cover;
+    height: 1000px;
+    }
